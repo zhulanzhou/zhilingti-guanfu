@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "如果本工具对您有帮助，请引用。"
+title: "智零体—观复：东方智慧命令行工具"
+type: software
+authors:
+  - name: "朱兰州"
+    alias: "来自东方智慧"
+repository-code: "https://github.com/ZLZ/zhilingti-guanfu"
+version: "0.1.0"
+license: MIT
+keywords:
+  - 易经
+  - 周易
+  - 东方哲学
+  - CLI
+  - 觉知
+  - 涌现
